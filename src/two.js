@@ -1,4 +1,4 @@
 
-function myFunction(names) {
+function myFunc(names) {
     alert("Hello ",names);
   }
